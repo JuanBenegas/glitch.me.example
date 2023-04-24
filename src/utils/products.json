@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Aspiradora Ultracomb",
+    "description": "Aspiradora multiuso para toda la casa",
+    "price": 12000,
+    "img": "https://www.ultracomb.com.ar/Image/0/500_500-AS-4201.png",
+    "stock": 7,
+    "id": 2
+  },
+  {
+    "title": "Ventilador Indelplas V16",
+    "description": "Ventilador de piso para el verano",
+    "price": 7000,
+    "img": "https://www.sumaelectrohogar.com.ar/7616-large_default/turbo-ventilador-indelplas-iv16.jpg",
+    "stock": 9,
+    "status": true,
+    "id": 3
+  },
+  {
+    "id": 1,
+    "title": "TV LG 44 Pulgadas",
+    "description": "Televisor muy bueno para toda la familia",
+    "price": 25000,
+    "img": [
+      "https://www.centrogar.com.ar/5711-large_default/tv-50-lg-50up7750-ultra-hd-4k-smart.jpg"
+    ],
+    "stock": 5,
+    "status": true
+  }
+]

@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mainTitle{
+    color: red;
+}
+
+.mainBox{
+    background-color: cyan;
+}
+
+.cartContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.prodContainer img{
+    max-width: 20vw;
+}
+
+.managerTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.formContainer{
+    display: flex;
+    justify-content: space-around;
+}
